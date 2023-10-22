@@ -24,3 +24,7 @@ The code to add a new line in the txt file - <br>
 was obtained from here: <br>
   https://flexiple.com/python/python-new-line
 
+The code to limit the decimals to 3 places - <br>
+  ".3f" <br>
+was obtained from here: <br>
+  https://stackoverflow.com/questions/51328193/understanding-the-print-format-3-in-python
